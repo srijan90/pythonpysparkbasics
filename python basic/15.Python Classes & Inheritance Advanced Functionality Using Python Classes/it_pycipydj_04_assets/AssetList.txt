@@ -1,0 +1,13 @@
+it_pycipydj_04_enus_02	: The repr and str Special Methods
+it_pycipydj_04_enus_03	: The add Special Method
+it_pycipydj_04_enus_04	: The sub Special Method
+it_pycipydj_04_enus_05	: The mul Special Method
+it_pycipydj_04_enus_06	: Special Methods for Other Operations
+it_pycipydj_04_enus_07	: Built-in Functions and Custom Data Types
+it_pycipydj_04_enus_08	: Custom Iterators Using Special Methods
+it_pycipydj_04_enus_09	: Defining Properties on Classes
+it_pycipydj_04_enus_10	: Defining Properties Using Decorators
+it_pycipydj_04_enus_11	: Class Methods
+it_pycipydj_04_enus_12	: Static Methods
+it_pycipydj_04_enus_13	: Abstract Base Classes
+

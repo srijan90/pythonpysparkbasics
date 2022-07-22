@@ -1,0 +1,16 @@
+1.Getting Started with Python: Introduction
+	Course Overview Python Introduction
+	Install and Set up Anaconda on Windows for Python
+	Run Jupyter notebooks on Windows for Python
+	Install and Set up Anaconda on MacOS for Python
+	Run Jupyter notebooks on MacOS for Python
+	Using Python as a Calculator
+	Working with Python Built-in Functions
+	Introducing Python Variables to Store Values
+	Working with Different Types of Variables in Python
+	Assigning Values to Variables in Python
+	Updating Variable Values in Python
+	Working with Python Simple Data Types
+	Creating Single-line and Multi-line Strings in Python
+	Formatting Operations with Strings in Python
+	Exercise: Python Jupyter Notebooks, Functions, & Variables

@@ -1,0 +1,217 @@
+1.Getting Started with Python: Introduction
+	Course Overview Python Introduction
+	Install and Set up Anaconda on Windows for Python
+	Run Jupyter notebooks on Windows for Python
+	Install and Set up Anaconda on MacOS for Python
+	Run Jupyter notebooks on MacOS for Python
+	Using Python as a Calculator
+	Working with Python Built-in Functions
+	Introducing Python Variables to Store Values
+	Working with Different Types of Variables in Python
+	Assigning Values to Variables in Python
+	Updating Variable Values in Python
+	Working with Python Simple Data Types
+	Creating Single-line and Multi-line Strings in Python
+	Formatting Operations with Strings in Python
+	Exercise: Python Jupyter Notebooks, Functions, & Variables
+
+2.Complex Data Types in Python: Working with Lists & Tuples in Python
+	Course Overview
+	Introducing Lists
+	Performing Simple List Operations
+	Performing Useful List Operations
+	Using Built-in Functions with Lists
+	Perform Slicing Operations on Lists
+	Using Step Size in Slicing Operations
+	Working with Strings as a List of Characters
+	Invoking Functions on Strings
+	Perform Slicing Operations on Strings
+	Introducing Tuples
+	Understanding Tuple Immutability
+	Introducing Other Complex Data Types
+	Exercise: Lists, Tuples, Similar Yet Different
+	
+3.Complex Data Types in Python: Working with Dictionaries & Sets in Python
+	Course Overview
+	Introducing Dictionaries
+	Nesting Complex Data Types Within Dictionaries
+	Invoking Functions on Dictionaries
+	Introducing Sets
+	Performing Set Operations
+	Working with Nested Lists
+	Performing List Conversions
+	Exercise: Dictionaries and Sets
+
+4.Complex Data Types in Python: Shallow & Deep Copies in Python
+	Course Overview
+	Copying Strings
+	Performing Shallow Copies of Lists
+	Performing Deep Copies of Lists
+	Creating Shallow and Deep Copies of Tuples
+	Creating Shallow Copies of Dictionaries
+	Creating Deep Copies of Dictionaries
+	Creating Shallow and Deep Copies of Sets
+	Exercise: Shallow and Deep Copies
+	
+5.Conditional Statements & Loops: If-else Control Structures in Python
+	Course Overview
+	Python Conditions
+	If Statements with Primitive Datatypes
+	If Statements with Complex Datatypes
+	If-else Elif Statements
+	Nested If-else Statements
+	If-else Statements with Complex Datatypes
+	Type Conversions with Primitive Datatypes
+	Type Conversions with Complex Datatypes
+	Type Conversions and Base Conversions
+	Basic Programs - Part 1
+	Basic Programs - Part 2
+	Basic Programs - Part 3
+	Basic Programs - Part 4
+	Exercise: If-else Statements in Python
+	
+6.Conditional Statements & Loops: The Basics of for Loops in Python
+	Course Overview
+	Iterating over Elements in a List
+	Iterating over Elements in a Tuple and Dictionary
+	The else Block of a for Loop
+	Nested Control Structures in a for Loop
+	An Introduction to the range Function
+	Setting Intervals in a Range
+	Exploring the range Function
+	Exercise: Basics of Python for Loops
+
+7.Conditional Statements & Loops: Advanced Operations Using for Loops in Python
+	Course Overview
+	Introducing the break Statement
+	The break Statement and the else block
+	The continue Statement: Part 1
+	The continue Statement: Part 2
+	The pass Statement
+	Introducing Comprehensions
+	Applying Conditions in Comprehensions
+	Exercise: Advanced Operations in for Loops
+
+8.Conditional Statements & Loops While Loops in Python
+	Course Overview
+	An Introduction to While Loops
+	Basic While Loops - Part 1
+	Basic While Loops - Part 2
+	Single-line While Loops
+	Evaluating Complex Data with While Loops - Part 1
+	Evaluating Complex Data with While Loops - Part 2
+	Exit a While Loop Using the Break Statement
+	Using the Pass Keyword in a While Loop
+	The Continue Statement in a While Loop
+	Exercise: While Loops in Python
+
+9.Functions in Python Introduction
+	Course Overview
+	Getting Started with Functions
+	Working with Functions
+	Functions as Objects
+	Input Arguments - Invoking Functions
+	Input Arguments - Referencing Global Variables
+	Input Arguments - Using Positional Arguments
+	Return Values - Functions
+	Return Values - Multi-return Statements
+	Return Values - Complex Data Types
+	Keyword Arguments - Invoking Functions
+	Keyword Arguments - Nuances
+	Default Arguments
+	Variable Length Arguments - *args Variable
+	Variable Length Arguments - Combinations
+	Variable Length Arguments - **kwargs Keyword
+	Exercise: Introduction to Functions in Python
+
+10.Functions in Python Gaining a Deeper Understanding of Python Functions
+	Course Overview
+	Global and Local Variables
+	Argument Passing by Value
+	Argument Passing by Reference
+	Math and OS Modules
+	Random and Datetime Modules
+	Functions as Arguments - Input Arguments
+	Functions as Arguments - Variable Arguments
+	Functions as Return Values
+	Lambdas - Define and Invoke
+	Lambdas - Define, Invoke, and Discard
+	Lambdas - Filter() Function
+	Exercise: Definining Python Functions
+
+11.Functions in Python: Working with Advanced Features of Python Functions
+	Course Overview
+	Recursion - Invoking Functions
+	Recursion - Conditions
+	Recursion - Calls
+	Generator Functions
+	Generators for Infinite Sequences
+	Closures
+	Closures and Local State
+	Decorators - Code Modification
+	Decorators - Customization
+	Chaining Decorators
+	Exercise: Advanced Features in Python Functions
+
+12.Python Classes & Inheritance: Introduction
+	Course Overview
+	Introduction to Classes
+	Classes as Blueprints
+	Objects
+	Inheritance
+	Object-Oriented Programming
+	Exercise: Introduction to Classes and Inheritance
+
+13.Python Classes & Inheritance Getting Started with Classes in Python
+	Course Overview
+	Classes as Custom Data Types
+	Associating Attributes with Classes
+	Initializing Class Objects
+	Passing Arguments for Initialization
+	Defining Additional Methods in Classes
+	Introducing Class Variables
+	Class Variables and Instance Variables
+	Class Variable Memory Sharing
+	Instance Variables
+	Getters and Setters for Private Variables
+	Making Variables Private
+	Create a Classes to Represent a Student
+	Parse Student Details from a Dictionary
+	Exercise: Characteristics of Classes
+
+14.Python Classes & Inheritance Working with Inheritance in Python
+	Course Overview
+	Inheriting from the Object Base Class
+	Modeling is-a Relationship Using Subclasses
+	Invoking Base Class Methods from Subclasses
+	Defining Implementations of Base Class Methods
+	Superclass and Subclass Hierarchies
+	Defining Methods in the Subclass
+	Multiple Inheritance
+	Multilevel Inheritance
+	Polymorphism - Part 1
+	Polymorphism - Part 2
+	Exercise: Implementing Class Inheritance
+
+15.Python Classes & Inheritance: Advanced Functionality Using Python Classes
+	Course Overview
+	The repr and str Special Methods
+	The add Special Method
+	The sub Special Method
+	The mul Special Method
+	Special Methods for Other Operations
+	Built-in Functions and Custom Data Types
+	Custom Iterators Using Special Methods
+	Defining Properties on Classes
+	Defining Properties Using Decorators
+	Class Methods
+	Static Methods
+	Abstract Base Classes
+	Exercise: Advanced Functionality in Classes
+	
+
+
+
+
+
+	

@@ -1,0 +1,45 @@
+1.Apache Spark Getting Started
+	Course Overview
+	Introduction to Spark and Hadoop
+	Resilient Distributed Datasets (RDDs)
+	RDD Operations
+	Spark DataFrames
+	Spark Architecture
+	Spark Installation
+	Working with RDDs
+	Creating DataFrames from RDDs
+	Contents of a DataFrame
+	The SQLContext
+	The map() Function of an RDD
+	Accessing the Contents of a DataFrame
+	DataFrames in Spark and Pandas
+	Exercise: Working with Spark
+	
+2.Data Analysis Using the Spark DataFrame API
+	Course Overview
+	Performance Improvements in Spark 2
+	Broadcast Variables and Accumulators
+	Loading Data into a DataFrame
+	Sampling the Contents of a DataFrame
+	Grouping and Aggregations
+	Visualizing Data in a DataFrame
+	Trimming and Cleaning Data
+	User-Defined Functions and DataFrames
+	Combining Filters, Aggregations, and Sorting
+	Using Broadcast Variables
+	Using Accumulators
+	Exporting DataFrame Contents
+	Custom Accumulators
+	Join Operations
+	Exercise: Data Analysis Using the DataFrame API
+	
+3.Data Analysis using Spark SQL
+	Course Overview
+	The Spark Catalyst Optimizer
+	Introduction to Spark SQL
+	Preparing Data for Analysis
+	Running SQL Queries
+	Inferred and Explicit Schemas
+	Windowing in Spark
+	Applying Window Functions
+	Exercise: Data Analysis Using Spark SQL

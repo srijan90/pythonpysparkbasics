@@ -1,0 +1,10 @@
+it_pycipydj_03_enus_02	: Inheriting from the Object Base Class
+it_pycipydj_03_enus_03	: Modeling is-a Relationship Using Subclasses
+it_pycipydj_03_enus_04	: Invoking Base Class Methods from Subclasses
+it_pycipydj_03_enus_05	: Defining Implementations of Base Class Methods
+it_pycipydj_03_enus_06	: Superclass and Subclass Hierarchies
+it_pycipydj_03_enus_07	: Defining Methods in the Subclass
+it_pycipydj_03_enus_08	: Multiple Inheritance
+it_pycipydj_03_enus_09	: Multilevel Inheritance
+it_pycipydj_03_enus_10	: Polymorphism - Part 1
+it_pycipydj_03_enus_11	: Polymorphism - Part 2

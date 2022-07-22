@@ -1,0 +1,13 @@
+it_pycipydj_02_enus_02	: Classes as Custom Data Types
+it_pycipydj_02_enus_03	: Associating Attributes with Classes
+it_pycipydj_02_enus_04	: Initializing Class Objects
+it_pycipydj_02_enus_05	: Passing Arguments for Initialization
+it_pycipydj_02_enus_06	: Defining Additional Methods in Classes
+it_pycipydj_02_enus_07	: Introducing Class Variables
+it_pycipydj_02_enus_08	: Class Variables and Instance Variables
+it_pycipydj_02_enus_09	: Class Variable Memory Sharing
+it_pycipydj_02_enus_10	: Instance Variables
+it_pycipydj_02_enus_11	: Getters and Setters for Private Variables
+it_pycipydj_02_enus_12	: Making Variables Private
+it_pycipydj_02_enus_13	: Create a Classes to Represent a Student
+it_pycipydj_02_enus_14	: Parse Student Details from a Dictionary
